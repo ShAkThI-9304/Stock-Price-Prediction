@@ -34,8 +34,8 @@ Train the model using the training data.
 Evaluate the model and plot predictions.
 
 ## Program
-#### Name:HYCINTH D
-#### Register Number:212223240055
+#### Name:Sakthivel B
+#### Register Number:212222040141
 
 ```Python 
 # Define RNN Model
